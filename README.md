@@ -49,3 +49,4 @@ Be sure to have your SSH key set up and that your public key (located in ~/.ssh/
 Be sure to have your SSH key set up adn that your public key (located in ~/.ssh/id_rsa.pub) is added to your GitHub account.
 /n /n Gary, Be sure to have your SSH key set up adn that your public key (located in ~/.ssh/id_rsa.pub) is added to your GitHub account.
 /n /n Gary, Be sure to have your SSH key set up adn that your public key (located in ~/.ssh/id_rsa.pub) is added to your GitHub account.
+\n \n Gary, Be sure to have your SSH key set up adn that your public key (located in ~/.ssh/id_rsa.pub) is added to your GitHub account.
